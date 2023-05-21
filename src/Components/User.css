@@ -1,0 +1,25 @@
+.main__greeting1{
+    background-color: white;
+    width: 100%;
+    padding: 9px 20px;
+    border-radius: 5px;
+}
+.main__greeting1 h1{
+    font-size: 2.2rem;
+}
+.addicon{
+   margin-top: -78px;
+    float: right;
+    font-size: 4rem;
+    color: #16a085;
+}
+.main__greeting2{
+    background-color: white;
+    width: 100%;
+    padding: 9px 20px;
+    border-radius: 5px;
+    margin-top: 1.5%;
+}
+.main__greeting2 h1{
+    font-size: 2.2rem;
+}
